@@ -1,5 +1,5 @@
 ##  Descrição:
- Foi criado um Api para o desafio tecncico com um algoritimo que quando recebe um número inteiro maior que zero retorna todos os valores divisiveis por 3 ou 5 que sejam inferiores ao número passado.<br><br>
+ Foi criado um Api para o desafio técnico com um algoritimo que quando recebe um número inteiro maior que zero retorna todos os valores divisíveis por 3 ou 5 que sejam inferiores ao número passado.<br><br>
 
 ## Tecnologias e bibliotecas utilizadas:
 - Node.js
